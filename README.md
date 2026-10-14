@@ -7,8 +7,8 @@
 ![AI-Explorer](https://img.shields.io/badge/AI-Explorer-purple)
 ![Problem%20Solver](https://img.shields.io/badge/Problem%20Solver-🛠️-green)
 
-- Passionate about Networking, IoT, Software Development, and Cybersecurity.
-- Eager learner, storyteller, problem solver.
+- AI Forward Deployed Engineer, specialized in secure agentic solutions
+- Self-learner, Multi-Cloud Certified
 - [Quick chess match? ♟️](https://www.chess.com/member/esemendelchess)
 
 ---
@@ -27,17 +27,17 @@
 ---
 
 ## 📂 Project Experience
-- 🤖 **AI Chatbots** — API configuration and Telegram-AI integrations.
-- ⚙️ **Automation Scripts** — Task scheduler / Cron-based operations alongside Power Automate.
-- 🖥️ **Development MVPs** — Web and mobile development with frameworks.
+- 🤖 **AI Agents** — Scalable and Secure Agentic LLM Products
+- ⚙️ **Automation Scripts** — Cron-based and AI Automations
+- 🖥️ **Webapp Products** — Web and mobile production-grade app development
 
 ---
 
 ## 🏅 Certifications
 - **Oracle Certified Foundations Associate** — 2025
-- **Crowdstrike Falcon Fusion SOAR Fundamentals** — 2025
-- **IBM Artificial Intelligence Fundamentals** — 2024
-- [🔗 See more at my portfolio](https://hgpr-portafolio-digital.netlify.app/)
+- **Cisco CyberOps Associate** — 2025
+- **AWS Cloud Foundations** — 2025
+- [🔗 See more at my portfolio](https://hugoperez.netlify.app/)
 
 ---
 
@@ -49,5 +49,5 @@
 
 ## 💬 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/hugo-guillermo-perez-romero/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-gray)](https://hgpr-portafolio-digital.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-Contact-green)](mailto:hgperezromero@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-gray)](https://hugoperez.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-Contact-green)](mailto:solicitudeshgpr@gmail.com)
